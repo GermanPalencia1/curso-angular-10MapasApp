@@ -78,6 +78,8 @@ export class MarkersPageComponent  implements AfterViewInit{
       { color, marker }
     );
 
+    marker.on('dragend', () => this.saveToLocalStorage())
+
     this.saveToLocalStorage();
 
   }
