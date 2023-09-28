@@ -19,7 +19,7 @@ e) Para producción ejecutar:
 npm run build
 ...
 
-10: El uso de mapasmediante un objeto de una librería de terceros, en este caso Mapbox.
+10A: El uso de mapasmediante un objeto de una librería de terceros, en este caso Mapbox.
 
   - Manejo de librerías escritas en JavaScript en TypeScript
 
@@ -42,3 +42,19 @@ npm run build
   - Zoom
   
   - Range
+
+10B: StandAlone components.
+
+  - ¿Qué son?
+
+  - ¿Para qué sirven?
+  
+  - ¿Cómo usarlos?
+  
+  - ¿Cómo cargarlos de forma perezosa?
+  
+  - ¿Cómo conectarlos entre sí?
+  
+  - ¿Cómo integrarlos en módulos y componentes tradicionales?
+
+  
